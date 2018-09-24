@@ -1,0 +1,26 @@
+.button-1{
+  width: 300px;
+  height: 200px;
+  background-color: red;
+  border-radius: 10px;
+
+}
+.button-2{
+  width: 300px;
+  height: 200px;
+  background-color: purple;
+  border-radius: 10px;
+  font-size: 30px;
+}
+.box{
+  width: 300px;
+  height: 200px;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid black;
+  text-align: center;
+}
+.text{
+  font-size: 30px;
+  text-align: center;
+}
